@@ -5,8 +5,6 @@ This repository contains a comprehensive, multi-phase data science and business 
 
 The project scales from core exploratory data analysis to complex spatial-temporal mapping, concluding with enterprise-grade interactive dashboarding to translate raw numbers into actionable strategic insights.
 
----
-
 ## Core Technologies & Toolstack
 * **Languages:** Python (Pandas, NumPy, GeoPandas, Folium, Matplotlib, Seaborn)
 * **Environments:** Jupyter Notebook, VS Code
