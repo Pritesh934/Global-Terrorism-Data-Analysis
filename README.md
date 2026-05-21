@@ -88,3 +88,11 @@ The project scales from core exploratory data analysis to complex spatial-tempor
 * **Tableau Interactive Architecture:** Developed dynamic, multi-tier filtering dashboards that reveal a significant, steady decline in macro-regional terrorist activity starting in the mid-1990s through 2020. This allows viewers to interactively cross-filter weapon types against specific country casualty counts.
 * **Power BI Intelligence System:** Implemented advanced data modeling and DAX measures to calculate year-over-year percentage variances, highlighting operational threat matrix shifts where infrastructure-targeted attacks gradually eclipsed armed assaults in the project’s later decades.
 * **Deliverables:** Produced formal presentation decks and executive summaries demonstrating how business intelligence software effectively converts messy spatial-temporal event rows into clear risk-assessment maps for global stakeholders.
+
+## 🛠️ Repository Reproducibility & Local Setup
+This repository is engineered to be fully modular and self-contained. To ensure absolute reproducibility, a local copy of the regional dataset (`region_2.csv`) is explicitly packaged inside *every* phase subfolder so each phase can be executed independently.
+
+### Quick Start:
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Priteshdas9/global-terrorism-data-analysis.git](https://github.com/Priteshdas9/global-terrorism-data-analysis.git)
