@@ -57,7 +57,7 @@ The project scales from core exploratory data analysis to complex spatial-tempor
     * *Heatmap:* Density-based coordinate mapping to identify structural conflict hot zones.
     * *Choropleth Map:* Merged the regional attributes with a `world_countries.json` layer to visualize country-level aggregated metrics across the decades.
 
-### 📈 Phase 3: Business Intelligence & Executive Dashboards
+### 📈 Phase 3: Business Intelligence & Dashboards
 * **Objective:** Build enterprise-ready, cross-filtering analytical interfaces for non-technical stakeholders using Tableau and Power BI.
 * **Key Tasks:**
   * **Tableau Architecture:** Created highly responsive dashboards emphasizing year-over-year growth metrics, weapon distribution, and multi-tier regional trend filtering.
@@ -71,3 +71,20 @@ The project scales from core exploratory data analysis to complex spatial-tempor
 * **Environments:** Jupyter Notebook, VS Code
 * **BI Software:** Tableau Desktop, Power BI Desktop
 * **Data Management:** Microsoft Excel (Advanced Pivot Routing & Charting)
+
+## Key Phase Wise Results & Analytical Insights
+
+### 📊 Phase 1: Temporal Trends & Categorical Profiles
+* **Peak of Volatility:** The analysis identified a massive surge in regional conflict during the late 1970s, peaking dramatically in **1980** with **over 1,300 recorded incidents** in a single year, followed by a secondary sustained wave of activity throughout the late 1980s. 
+* **Targeting Strategies:** The private sector, citizens, property, and military/government installations emerged as the most heavily targeted entities.
+* **Tactical Profiling:** **Facility/Infrastructure Attacks** and **Armed Assaults** dominated the categorical distribution, with **Firearms** and **Explosives** standing as the primary weapon types utilized across the 50-year timeframe.
+
+### 🗺️ Phase 2: Spatial Hot Zones & Geographic Clustering
+* **Primary Regional Hotspots:** Spatial coordinate mapping via Folium revealed dense operational clusters heavily concentrated in **El Salvador**, **Guatemala**, and **Nicaragua**, tracking closely with the historical timelines of civil conflicts in those nations.
+* **Macroscopic Density (Choropleth):** Integrating country boundary layers (`world_countries.json`) confirmed that **El Salvador** sustained the highest aggregate density of tracking data points in the Central American region over the 1970–2020 window.
+* **Microscopic Intensity (Heatmap):** Density-based heat mapping pinpointed specific urban capital areas (e.g., **San Salvador** and **Guatemala City**) as high-intensity structural risk zones, contrasting against more dispersed incidents in rural border territories.
+
+### 📈 Phase 3: Strategic Dashboards & Portfolio Visualizations
+* **Tableau Interactive Architecture:** Developed dynamic, multi-tier filtering dashboards that reveal a significant, steady decline in macro-regional terrorist activity starting in the mid-1990s through 2020. This allows viewers to interactively cross-filter weapon types against specific country casualty counts.
+* **Power BI Intelligence System:** Implemented advanced data modeling and DAX measures to calculate year-over-year percentage variances, highlighting operational threat matrix shifts where infrastructure-targeted attacks gradually eclipsed armed assaults in the project’s later decades.
+* **Deliverables:** Produced formal presentation decks and executive summaries demonstrating how business intelligence software effectively converts messy spatial-temporal event rows into clear risk-assessment maps for global stakeholders.
