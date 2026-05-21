@@ -12,6 +12,7 @@ The project scales from core exploratory data analysis to complex spatial-tempor
 * **Environments:** Jupyter Notebook, VS Code
 * **BI Software:** Tableau Desktop, Power BI Desktop
 * **Data Management:** Microsoft Excel (Advanced Pivot Routing & Charting)
+
 ## Repository Architecture
 
 ```text
