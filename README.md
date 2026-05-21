@@ -95,4 +95,4 @@ This repository is engineered to be fully modular and self-contained. To ensure 
 ### Quick Start:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Priteshdas9/global-terrorism-data-analysis.git](https://github.com/Priteshdas9/global-terrorism-data-analysis.git)
+   git clone [https://github.com/Priteshdas934/Global-Terrorism-Data-Analysis.git](https://github.com/Priteshdas934/Global-Terrorism-Data-Analysis.git)
