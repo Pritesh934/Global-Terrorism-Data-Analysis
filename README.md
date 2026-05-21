@@ -7,6 +7,11 @@ The project scales from core exploratory data analysis to complex spatial-tempor
 
 ---
 
+## Core Technologies & Toolstack
+* **Languages:** Python (Pandas, NumPy, GeoPandas, Folium, Matplotlib, Seaborn)
+* **Environments:** Jupyter Notebook, VS Code
+* **BI Software:** Tableau Desktop, Power BI Desktop
+* **Data Management:** Microsoft Excel (Advanced Pivot Routing & Charting)
 ## Repository Architecture
 
 ```text
@@ -65,12 +70,6 @@ The project scales from core exploratory data analysis to complex spatial-tempor
   * **Final Synthesis:** Compiled a detailed final report translating visual dashboard metrics into actionable conclusions surrounding the long-term security landscape of the Central America and Caribbean regions.
 
 ---
-
-## Core Technologies & Toolstack
-* **Languages:** Python (Pandas, NumPy, GeoPandas, Folium, Matplotlib, Seaborn)
-* **Environments:** Jupyter Notebook, VS Code
-* **BI Software:** Tableau Desktop, Power BI Desktop
-* **Data Management:** Microsoft Excel (Advanced Pivot Routing & Charting)
 
 ## Key Phase Wise Results & Analytical Insights
 
